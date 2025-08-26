@@ -375,7 +375,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		color: #57D2FF;
 		display: block;
 		font-size: 0.8rem;
 		font-weight: 300;
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
