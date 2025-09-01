@@ -1290,7 +1290,7 @@ input, select, textarea {
 				display: none;
 			}
 
-		#header .logo {
+		1#header .logo {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
@@ -1304,7 +1304,7 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: #000000;
+			border-color: #1600A3;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
