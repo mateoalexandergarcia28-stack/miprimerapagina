@@ -90,7 +90,7 @@ input, select, textarea {
 		box-sizing: border-box;
 	}
 
-	*, *:before, *:after {
+	*, *:b#efore, *:after {
 		box-sizing: inherit;
 	}
 
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
