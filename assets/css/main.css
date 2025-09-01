@@ -600,8 +600,8 @@ input, select, textarea {
 
 /* Icon */
 
-	.icon {
-		text-decoration: none;
+	.#icon {
+		#text-decoration: none;
 		border-bottom: none;
 		position: relative;
 	}
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
