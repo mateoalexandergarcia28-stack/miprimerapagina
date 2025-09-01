@@ -623,7 +623,7 @@ input, select, textarea {
 			display: none;
 		}
 
-		.icon:before {
+		##.icon:#before {
 			line-height: inherit;
 		}
 
@@ -1659,6 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
